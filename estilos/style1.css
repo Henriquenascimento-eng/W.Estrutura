@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(138, 0, 0);
 }
 
     main {
     background-color: white;
-    width: 500px;
+    width: 700px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.418);
